@@ -7,7 +7,7 @@ I bridge the gap between beautiful design and functional code — turning ideas 
 
 ---
 
-## 🧑‍💻 About me
+## About me
 
 ```javascript
 const fernando = {
@@ -21,7 +21,7 @@ const fernando = {
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 
 **Frontend**
 
@@ -51,7 +51,7 @@ const fernando = {
 
 ---
 
-## 💡 What I bring to the table
+## What I bring to the table
 
 | | |
 |---|---|
@@ -62,7 +62,7 @@ const fernando = {
 
 ---
 
-## 📊 GitHub stats
+## GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Fernando's GitHub stats" height="150"/>
@@ -72,7 +72,7 @@ const fernando = {
 
 ---
 
-## 🤝 Connect with me
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-guedez/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
