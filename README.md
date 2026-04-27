@@ -65,9 +65,9 @@ const fernando = {
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Fernando's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FguedezR&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Fernando's GitHub stats" height="150"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default" alt="Top languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FguedezR&layout=compact&hide_border=true&theme=default" alt="Top languages" height="150"/>
 </p>
 
 ---
