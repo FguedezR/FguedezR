@@ -31,6 +31,7 @@ const fernando = {
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)
+![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A?&logo=Tailwindcss)
 
 **Backend & Databases**
 
