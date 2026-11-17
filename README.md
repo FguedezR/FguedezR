@@ -13,7 +13,7 @@ I bridge the gap between beautiful design and functional code — turning ideas 
 const fernando = {
   role: "Full Stack Developer",
   background: "Web Development + Graphic Design",
-  experience: "~1 year in web development",
+  experience: "~2 year in web development",
   currentlyLearning: "AI-assisted development workflows",
   funFact: "I think in both pixels and functions"
 }
