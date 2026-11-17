@@ -3,7 +3,7 @@
 **Full Stack Developer & Graphic Designer** based in Spain.
 I bridge the gap between beautiful design and functional code — turning ideas into polished digital products.
 
-📍 Spain &nbsp;|&nbsp; 💼 Open to work &nbsp;|&nbsp; 🎓 Bootcamp graduate &nbsp;|&nbsp; 🎨 Design + Dev
+📍 Spain &nbsp;|&nbsp; 🎓 Bootcamp graduate &nbsp;|&nbsp; 🎨 Design + Dev
 
 ---
 
